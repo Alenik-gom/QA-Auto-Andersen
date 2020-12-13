@@ -1,0 +1,10 @@
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.csprojAssemblyReference.cache
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.Form1.resources
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.Properties.Resources.resources
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.csproj.GenerateResource.cache
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\bin\Debug\VolchekAndersen.exe.config
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\bin\Debug\VolchekAndersen.exe
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\bin\Debug\VolchekAndersen.pdb
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.exe
+C:\УЧЕБА\Andersen\VolchekAndersen\VolchekAndersen\obj\Debug\VolchekAndersen.pdb
